@@ -1,0 +1,450 @@
+{
+ "loco_city_a": {
+  "source_file": "train-electric-city-a.glb",
+  "pack": "Kenney Train Kit",
+  "license": "CC0 1.0",
+  "tris_source": 1130,
+  "parts": 286,
+  "wheel_groups": 2
+ },
+ "loco_city_b": {
+  "source_file": "train-electric-city-b.glb",
+  "pack": "Kenney Train Kit",
+  "license": "CC0 1.0",
+  "tris_source": 1500,
+  "parts": 397,
+  "wheel_groups": 2
+ },
+ "loco_bullet_a": {
+  "source_file": "train-electric-bullet-a.glb",
+  "pack": "Kenney Train Kit",
+  "license": "CC0 1.0",
+  "tris_source": 1261,
+  "parts": 367,
+  "wheel_groups": 2
+ },
+ "loco_double_a": {
+  "source_file": "train-electric-double-a.glb",
+  "pack": "Kenney Train Kit",
+  "license": "CC0 1.0",
+  "tris_source": 1445,
+  "parts": 299,
+  "wheel_groups": 2
+ },
+ "loco_passenger_a": {
+  "source_file": "train-locomotive-passenger-a.glb",
+  "pack": "Kenney Train Kit",
+  "license": "CC0 1.0",
+  "tris_source": 1308,
+  "parts": 224,
+  "wheel_groups": 2
+ },
+ "loco_diesel_a": {
+  "source_file": "train-diesel-a.glb",
+  "pack": "Kenney Train Kit",
+  "license": "CC0 1.0",
+  "tris_source": 1742,
+  "parts": 220,
+  "wheel_groups": 2
+ },
+ "car_wood": {
+  "source_file": "train-carriage-wood.glb",
+  "pack": "Kenney Train Kit",
+  "license": "CC0 1.0",
+  "tris_source": 1136,
+  "parts": 296,
+  "wheel_groups": 2
+ },
+ "car_box": {
+  "source_file": "train-carriage-box.glb",
+  "pack": "Kenney Train Kit",
+  "license": "CC0 1.0",
+  "tris_source": 1076,
+  "parts": 250,
+  "wheel_groups": 2
+ },
+ "car_container": {
+  "source_file": "train-carriage-container-blue.glb",
+  "pack": "Kenney Train Kit",
+  "license": "CC0 1.0",
+  "tris_source": 1242,
+  "parts": 195,
+  "wheel_groups": 2
+ },
+ "tram_classic": {
+  "source_file": "train-tram-classic.glb",
+  "pack": "Kenney Train Kit",
+  "license": "CC0 1.0",
+  "tris_source": 1648,
+  "parts": 196,
+  "wheel_groups": 2
+ },
+ "tram_modern": {
+  "source_file": "train-tram-modern.glb",
+  "pack": "Kenney Train Kit",
+  "license": "CC0 1.0",
+  "tris_source": 1498,
+  "parts": 180,
+  "wheel_groups": 2
+ },
+ "bld_sky_a": {
+  "source_file": "building-skyscraper-a.glb",
+  "pack": "Kenney City Kit (Commercial)",
+  "license": "CC0 1.0",
+  "tris_source": 1292,
+  "parts": 419,
+  "wheel_groups": 0
+ },
+ "bld_sky_c": {
+  "source_file": "building-skyscraper-c.glb",
+  "pack": "Kenney City Kit (Commercial)",
+  "license": "CC0 1.0",
+  "tris_source": 1704,
+  "parts": 940,
+  "wheel_groups": 0
+ },
+ "bld_sky_e": {
+  "source_file": "building-skyscraper-e.glb",
+  "pack": "Kenney City Kit (Commercial)",
+  "license": "CC0 1.0",
+  "tris_source": 1156,
+  "parts": 882,
+  "wheel_groups": 0
+ },
+ "bld_com_a": {
+  "source_file": "building-a.glb",
+  "pack": "Kenney City Kit (Commercial)",
+  "license": "CC0 1.0",
+  "tris_source": 1252,
+  "parts": 275,
+  "wheel_groups": 0
+ },
+ "bld_com_c": {
+  "source_file": "building-c.glb",
+  "pack": "Kenney City Kit (Commercial)",
+  "license": "CC0 1.0",
+  "tris_source": 1195,
+  "parts": 270,
+  "wheel_groups": 0
+ },
+ "bld_com_f": {
+  "source_file": "building-f.glb",
+  "pack": "Kenney City Kit (Commercial)",
+  "license": "CC0 1.0",
+  "tris_source": 1794,
+  "parts": 345,
+  "wheel_groups": 0
+ },
+ "bld_com_h": {
+  "source_file": "building-h.glb",
+  "pack": "Kenney City Kit (Commercial)",
+  "license": "CC0 1.0",
+  "tris_source": 1512,
+  "parts": 272,
+  "wheel_groups": 0
+ },
+ "bld_com_k": {
+  "source_file": "building-k.glb",
+  "pack": "Kenney City Kit (Commercial)",
+  "license": "CC0 1.0",
+  "tris_source": 2960,
+  "parts": 370,
+  "wheel_groups": 0
+ },
+ "bld_com_n": {
+  "source_file": "building-n.glb",
+  "pack": "Kenney City Kit (Commercial)",
+  "license": "CC0 1.0",
+  "tris_source": 4350,
+  "parts": 363,
+  "wheel_groups": 0
+ },
+ "bld_sub_a": {
+  "source_file": "building-type-a.glb",
+  "pack": "Kenney City Kit (Suburban)",
+  "license": "CC0 1.0",
+  "tris_source": 1174,
+  "parts": 331,
+  "wheel_groups": 0
+ },
+ "bld_sub_d": {
+  "source_file": "building-type-d.glb",
+  "pack": "Kenney City Kit (Suburban)",
+  "license": "CC0 1.0",
+  "tris_source": 1757,
+  "parts": 671,
+  "wheel_groups": 0
+ },
+ "bld_sub_f": {
+  "source_file": "building-type-f.glb",
+  "pack": "Kenney City Kit (Suburban)",
+  "license": "CC0 1.0",
+  "tris_source": 1616,
+  "parts": 345,
+  "wheel_groups": 0
+ },
+ "bld_sub_j": {
+  "source_file": "building-type-j.glb",
+  "pack": "Kenney City Kit (Suburban)",
+  "license": "CC0 1.0",
+  "tris_source": 1210,
+  "parts": 227,
+  "wheel_groups": 0
+ },
+ "bld_sub_p": {
+  "source_file": "building-type-p.glb",
+  "pack": "Kenney City Kit (Suburban)",
+  "license": "CC0 1.0",
+  "tris_source": 1282,
+  "parts": 374,
+  "wheel_groups": 0
+ },
+ "bld_ind_b": {
+  "source_file": "building-b.glb",
+  "pack": "Kenney City Kit (Industrial)",
+  "license": "CC0 1.0",
+  "tris_source": 2422,
+  "parts": 352,
+  "wheel_groups": 0
+ },
+ "bld_ind_e": {
+  "source_file": "building-e.glb",
+  "pack": "Kenney City Kit (Industrial)",
+  "license": "CC0 1.0",
+  "tris_source": 1484,
+  "parts": 407,
+  "wheel_groups": 0
+ },
+ "bld_ind_h": {
+  "source_file": "building-h.glb",
+  "pack": "Kenney City Kit (Industrial)",
+  "license": "CC0 1.0",
+  "tris_source": 698,
+  "parts": 454,
+  "wheel_groups": 0
+ },
+ "tower_water": {
+  "source_file": "water-tower.glb",
+  "pack": "Kenney City Kit (Industrial)",
+  "license": "CC0 1.0",
+  "tris_source": 968,
+  "parts": 851,
+  "wheel_groups": 0
+ },
+ "per_m_a": {
+  "source_file": "character-male-a.glb",
+  "pack": "Kenney Mini Characters 1",
+  "license": "CC0 1.0",
+  "tris_source": 771,
+  "parts": 292,
+  "wheel_groups": 0
+ },
+ "per_m_c": {
+  "source_file": "character-male-c.glb",
+  "pack": "Kenney Mini Characters 1",
+  "license": "CC0 1.0",
+  "tris_source": 837,
+  "parts": 393,
+  "wheel_groups": 0
+ },
+ "per_m_e": {
+  "source_file": "character-male-e.glb",
+  "pack": "Kenney Mini Characters 1",
+  "license": "CC0 1.0",
+  "tris_source": 758,
+  "parts": 309,
+  "wheel_groups": 0
+ },
+ "per_m_g": {
+  "source_file": "character-male-g.glb",
+  "pack": "Kenney Mini Characters 1",
+  "license": "CC0 1.0",
+  "tris_source": 877,
+  "parts": 358,
+  "wheel_groups": 0
+ },
+ "per_f_a": {
+  "source_file": "character-female-a.glb",
+  "pack": "Kenney Mini Characters 1",
+  "license": "CC0 1.0",
+  "tris_source": 924,
+  "parts": 767,
+  "wheel_groups": 0
+ },
+ "per_f_c": {
+  "source_file": "character-female-c.glb",
+  "pack": "Kenney Mini Characters 1",
+  "license": "CC0 1.0",
+  "tris_source": 780,
+  "parts": 337,
+  "wheel_groups": 0
+ },
+ "per_f_e": {
+  "source_file": "character-female-e.glb",
+  "pack": "Kenney Mini Characters 1",
+  "license": "CC0 1.0",
+  "tris_source": 804,
+  "parts": 309,
+  "wheel_groups": 0
+ },
+ "per_worker": {
+  "source_file": "character-worker.glb",
+  "pack": "Kenney Mini Characters 1",
+  "license": "CC0 1.0",
+  "tris_source": 893,
+  "parts": 376,
+  "wheel_groups": 0
+ },
+ "per_soldier": {
+  "source_file": "character-soldier.glb",
+  "pack": "Kenney Mini Characters 1",
+  "license": "CC0 1.0",
+  "tris_source": 947,
+  "parts": 193,
+  "wheel_groups": 0
+ },
+ "prop_bench": {
+  "source_file": "fence.glb",
+  "pack": "Kenney City Kit (Suburban)",
+  "license": "CC0 1.0",
+  "tris_source": 88,
+  "parts": 571,
+  "wheel_groups": 0
+ },
+ "prop_lamp": {
+  "source_file": "light-curved.glb",
+  "pack": "Kenney City Kit (Roads)",
+  "license": "CC0 1.0",
+  "tris_source": 92,
+  "parts": 115,
+  "wheel_groups": 0
+ },
+ "prop_lamp_sq": {
+  "source_file": "light-square-double.glb",
+  "pack": "Kenney City Kit (Roads)",
+  "license": "CC0 1.0",
+  "tris_source": 88,
+  "parts": 131,
+  "wheel_groups": 0
+ },
+ "prop_pole": {
+  "source_file": "electricity-pole.glb",
+  "pack": "Kenney City Kit (Roads)",
+  "license": "CC0 1.0",
+  "tris_source": 416,
+  "parts": 238,
+  "wheel_groups": 0
+ },
+ "prop_wires": {
+  "source_file": "electricity-wires.glb",
+  "pack": "Kenney City Kit (Roads)",
+  "license": "CC0 1.0",
+  "tris_source": 72,
+  "parts": 109,
+  "wheel_groups": 0
+ },
+ "prop_sign_hw": {
+  "source_file": "sign-highway-detailed.glb",
+  "pack": "Kenney City Kit (Roads)",
+  "license": "CC0 1.0",
+  "tris_source": 256,
+  "parts": 343,
+  "wheel_groups": 0
+ },
+ "prop_traffic": {
+  "source_file": "traffic-light.glb",
+  "pack": "Kenney City Kit (Roads)",
+  "license": "CC0 1.0",
+  "tris_source": 212,
+  "parts": 175,
+  "wheel_groups": 0
+ },
+ "prop_cone": {
+  "source_file": "construction-cone.glb",
+  "pack": "Kenney City Kit (Roads)",
+  "license": "CC0 1.0",
+  "tris_source": 66,
+  "parts": 731,
+  "wheel_groups": 0
+ },
+ "prop_barrier": {
+  "source_file": "construction-barrier.glb",
+  "pack": "Kenney City Kit (Roads)",
+  "license": "CC0 1.0",
+  "tris_source": 60,
+  "parts": 749,
+  "wheel_groups": 0
+ },
+ "prop_dumpster": {
+  "source_file": "dumpster.glb",
+  "pack": "Kenney City Kit (Roads)",
+  "license": "CC0 1.0",
+  "tris_source": 234,
+  "parts": 404,
+  "wheel_groups": 0
+ },
+ "prop_container": {
+  "source_file": "shipping-container-a.glb",
+  "pack": "Kenney City Kit (Industrial)",
+  "license": "CC0 1.0",
+  "tris_source": 402,
+  "parts": 1070,
+  "wheel_groups": 0
+ },
+ "prop_tank": {
+  "source_file": "detail-tank.glb",
+  "pack": "Kenney City Kit (Industrial)",
+  "license": "CC0 1.0",
+  "tris_source": 310,
+  "parts": 364,
+  "wheel_groups": 0
+ },
+ "prop_planter": {
+  "source_file": "planter.glb",
+  "pack": "Kenney City Kit (Suburban)",
+  "license": "CC0 1.0",
+  "tris_source": 204,
+  "parts": 1143,
+  "wheel_groups": 0
+ },
+ "prop_tree_s": {
+  "source_file": "tree-small.glb",
+  "pack": "Kenney City Kit (Suburban)",
+  "license": "CC0 1.0",
+  "tris_source": 42,
+  "parts": 428,
+  "wheel_groups": 0
+ },
+ "prop_tree_l": {
+  "source_file": "tree-large.glb",
+  "pack": "Kenney City Kit (Suburban)",
+  "license": "CC0 1.0",
+  "tris_source": 42,
+  "parts": 305,
+  "wheel_groups": 0
+ },
+ "prop_awning": {
+  "source_file": "detail-awning-wide.glb",
+  "pack": "Kenney City Kit (Commercial)",
+  "license": "CC0 1.0",
+  "tris_source": 40,
+  "parts": 106,
+  "wheel_groups": 0
+ },
+ "prop_overhang": {
+  "source_file": "detail-overhang-wide.glb",
+  "pack": "Kenney City Kit (Commercial)",
+  "license": "CC0 1.0",
+  "tris_source": 64,
+  "parts": 155,
+  "wheel_groups": 0
+ },
+ "prop_tile": {
+  "source_file": "tile-low.glb",
+  "pack": "Kenney City Kit (Roads)",
+  "license": "CC0 1.0",
+  "tris_source": 12,
+  "parts": 120,
+  "wheel_groups": 0
+ }
+}

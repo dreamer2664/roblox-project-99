@@ -1,0 +1,5 @@
+out/parts.json
+out/*.rbxlx
+__pycache__/
+*.pyc
+nohup.out
